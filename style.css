@@ -113,8 +113,6 @@ button:active {
 }
 
 @media screen and (max-width: 800px) {
-
-
   .colum-direction, .column-colors {
     display: flex;
     flex-direction: column;

@@ -18,7 +18,7 @@ body {
 
 .gradient-box {
   height: 52vh;
-  background: linear-gradient(to left top, #5665E9, #A271F8);
+  background: linear-gradient(to left bottom, #2c7aae, #c1e37c);
   margin: 10px;
   box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.56);
 }

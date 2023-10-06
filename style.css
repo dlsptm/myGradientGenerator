@@ -113,6 +113,10 @@ button:active {
 }
 
 @media screen and (max-width: 800px) {
+  .gradient-box{
+    height: 31vh;
+  }
+  
   .colum-direction, .column-colors {
     display: flex;
     flex-direction: column;
